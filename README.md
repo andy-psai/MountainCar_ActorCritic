@@ -1,4 +1,6 @@
 # MountainCar_ActorCritic
+My simple implementation of actor-critic RL in Tensorflow.
+
 See the blog at https://medium.com/@asteinbach/actor-critic-using-deep-rl-continuous-mountain-car-in-tensorflow-4c1fb2110f7c
 for description of this code.
 
